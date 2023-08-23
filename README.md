@@ -1,3 +1,7 @@
+
+A beginner job-lookout app with 3 pages using React Native and Expo.
+<br>
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
